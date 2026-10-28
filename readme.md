@@ -1,4 +1,4 @@
 ## Hello, This is Quan Tien Thinh - a dog
 
-This is comming from dev_number_1
+This is coming from dev_number_2
 I'm adding this line from branch_2
